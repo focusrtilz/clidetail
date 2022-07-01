@@ -1,5 +1,5 @@
 # clidetail
-
+![](https://i.imgur.com/T3EyBoU.png)
 ## Command Manual List
 - [ cat -net || Printing the none-printing characters (end of line, control-D, tab)](https://github.com/focusrtilz/clidetail/blob/main/command_manuals/cat_net.md)
 - [ ls -C -1 option override each other | Option C (output to the terminal), Option 1 (output not to the terminal)](https://github.com/focusrtilz/clidetail/blob/main/command_manuals/lsC1_override.md)
